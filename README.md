@@ -1,5 +1,8 @@
 # Financial-Reporting-Analysis
 
+Data Analysis Project of Financial Reporting Analysis
+
+In this project, comprehensive financial reports were developed to track key metrics such as YoY Gross Profit, Net Profit, EBITDA, and Operating Costs. The analysis included Yearly and Monthly funnels to monitor performance and trends. Additionally, a detailed comparison of YoY Marketing Spend versus Revenue and Net Profit was conducted to provide insights for optimizing financial strategies.
 
 Tools Used:
 <ul>
